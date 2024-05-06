@@ -1,0 +1,8 @@
+.App * {
+  box-sizing: border-box;
+  border: 1px solid #ff0000;
+}
+.App {
+  max-width: 800px;
+  margin: auto;
+}
